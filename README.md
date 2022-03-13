@@ -1,5 +1,14 @@
 # Getting Started with Upi System App
 
+## About
+A Simple react Application for payments using UPI
+
+Features Included:
+2FA Authentication with Firebase (using mobile and sms)
+Add accounts for payment.
+Make transfers from an account to another.
+Account overview.
+Transaction history.
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
