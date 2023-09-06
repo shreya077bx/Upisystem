@@ -21,16 +21,16 @@ function Footer() {
       <div className="sign">
         Made By{" "}
         <a
-          href="https://www.linkedin.com/in/santosh-ranjan-726b79167/"
+          href="https://www.linkedin.com/in/somnathpati"
           target="_blank"
           rel="noreferrer"
         >
-          <i className="fab fa-linkedin"></i> Santosh Ranjan.
+          <i className="fab fa-linkedin"></i> Somnath Pati.
         </a>
       </div>
 
       <div className="copyright">
-        &#169; Copyright 2022
+        &#169; Copyright 2023
         <br />
         All rights reserved.
       </div>
